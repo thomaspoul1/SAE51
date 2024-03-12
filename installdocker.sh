@@ -8,4 +8,4 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo systemctl enable docker
 sudo systemctl status docker
-
+sudo apt install docker-compose
