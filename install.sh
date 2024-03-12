@@ -21,5 +21,7 @@ else
     exit 1
 fi
 
+# Message pour les identifiants de base en gras
+echo -e "\e[1mLes identifiants de base sont \e[91madmin:admin\e[0m"
 
 
